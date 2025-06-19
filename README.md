@@ -45,4 +45,6 @@ In the New User account setup page:
 - Click on Create to add Richard to the Users list.
 
 <b>2. Make the user (Richard) a local administrator.</b>
-
+- On the Local Users and Groups page, double-click on Groups. This opens the local groups in the machine.
+- Double-click on Administrators to open a box containing members of the Administrators group.
+- 
