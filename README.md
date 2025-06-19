@@ -54,8 +54,7 @@ In the New User account setup page:
 - Enter the name of the user to be addwd to Administrator group (Richard).
 
 ![Richard adm](https://github.com/Judeorabueze/Local-User-Account-Management/blob/main/Richard%20add.PNG)
-
 - Click on Check Names to confirm the name is correct.
 - Enter OK to add Richard to Administrator group.
 
-- 
+![Richard adm 2](https://github.com/Judeorabueze/Local-User-Account-Management/blob/main/Richard%20add%202.PNG)
