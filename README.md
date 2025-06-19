@@ -66,3 +66,7 @@ In the New User account setup page:
   
 ![Rich 1](https://github.com/Judeorabueze/Local-User-Account-Management/blob/main/Rich.PNG)
 - Enter the password earlier set.
+
+![Rich 2](https://github.com/Judeorabueze/Local-User-Account-Management/blob/main/Rich%202.PNG)
+
+- Feom the screenshot above, the new user (Richard) was prompted to change his password. Click OK.
