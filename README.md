@@ -58,3 +58,8 @@ In the New User account setup page:
 - Enter OK to add Richard to Administrator group.
 
 ![Richard adm 2](https://github.com/Judeorabueze/Local-User-Account-Management/blob/main/Richard%20add%202.PNG)
+- Select OK.
+
+<b>3. Check if pasword change is well set.
+- Restart the Windows 11 Virtual Machine.
+- Attempt to login as Richard using the login credentials earlier set.
