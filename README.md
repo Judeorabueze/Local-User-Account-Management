@@ -19,3 +19,10 @@ This task was completed in response to a training ticket assigned during my hand
 - Operating System: Windows 11 (Virtual Machine)
 - Administrative Tool: Local Users and Groups (lusrmgr.msc)
 - Environment: Virtualized home lab
+
+## Methodology / Approach Adopted
+- Open VirtualBox Hypervisor and start Windows 11 Virtual Machine
+- Search for Run and open the Run prompt
+- Typer lusrmgr.msc and click OK (lusrmgr.msc represent Local Users and Group Management Service)
+
+
