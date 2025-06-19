@@ -30,5 +30,6 @@ This task was completed in response to a training ticket assigned during my hand
 (lusrmgr.msc represent Local Users and Group Management Service) This will open the Local Users and Groups page.
 - Double click on the Users folder to open.
 - Right click in the Users folder and select New User.
- 
+![Users](https://github.com/Judeorabueze/Local-User-Account-Management/blob/main/User%20page.png)
+
 
