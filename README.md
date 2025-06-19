@@ -21,6 +21,8 @@ This task was completed in response to a training ticket assigned during my hand
 - Environment: Virtualized home lab.
 
 ## Methodology / Approach Adopted
+
+<b>1. Add a local user "Richard" and set the user's password to ask for a change at next logon.</b>
 - Open VirtualBox Hypervisor and start Windows 11 Virtual Machine.
 - Search for Run and open the Run prompt.
 - Enter lusrmgr.msc and click OK.
@@ -39,4 +41,8 @@ In the New User account setup page the opens, fill in the name of the new user.
 -	Check the box ‘User must change password at next logon’ (As direted in the ticket).
 
 ![new user](https://github.com/Judeorabueze/Local-User-Account-Management/blob/main/new%20user.png)
+
+- Click on Create to add Richard to the Users list.
+
+<b>2. Make the user (Richard) a local administrator.</b>
 
