@@ -35,7 +35,8 @@ This task was completed in response to a training ticket assigned during my hand
 
 In the New User account setup page the opens, fill in the name of the new user.
 -	Add the new user’s name – Richard ( As contained in the Ticket).
--	Set a password for the user
+-	Set a password for the new user.
 -	Check the box ‘User must change password at next logon’ (As direted in the ticket).
 
+![new user](https://github.com/Judeorabueze/Local-User-Account-Management/blob/main/new%20user.png)
 
