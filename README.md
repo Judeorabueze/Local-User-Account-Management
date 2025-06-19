@@ -60,6 +60,9 @@ In the New User account setup page:
 ![Richard adm 2](https://github.com/Judeorabueze/Local-User-Account-Management/blob/main/Richard%20add%202.PNG)
 - Select OK.
 
-<b>3. Check if pasword change is well set.
+<b>3. Check if pasword change is well set.</b>
 - Restart the Windows 11 Virtual Machine.
 - Attempt to login as Richard using the login credentials earlier set.
+  
+![Rich 1](https://github.com/Judeorabueze/Local-User-Account-Management/blob/main/Rich.PNG)
+- Enter the password earlier set.
