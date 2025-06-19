@@ -47,4 +47,9 @@ In the New User account setup page:
 <b>2. Make the user (Richard) a local administrator.</b>
 - On the Local Users and Groups page, double-click on Groups. This opens the local groups in the machine.
 - Double-click on Administrators to open a box containing members of the Administrators group.
-- 
+
+![Administrator](https://github.com/Judeorabueze/Local-User-Account-Management/blob/main/rsz_admina.png)
+
+- Select Add (This will enable us to add a user to the Administrator group).
+- Enter the name of the user to be addwd to Administrator group (Richard).
+- Click on Check Names to confirm the name is correct.
